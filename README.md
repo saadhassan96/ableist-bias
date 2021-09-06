@@ -2,7 +2,7 @@
 List of sentences.
 
 
-Copyright (c) 2021 
+## Copyright (c) 2021 
 All Rights Reserved.
 
 Permission is hereby granted, free of charge, to use and distribute the #
@@ -10,7 +10,7 @@ list of sentences for not-for-profit academic purposes (i.e. instruction, resear
 without restriction, including without limitation the rights to #
 use, copy, modify, merge, publish, distribute, sublicense copies of this #
 work, and to permit persons to whom this work furnished to do so, subject to #
-the following conditions: #
+the following conditions: 
 1. The list of sentences, and documentation can only be used for #
 not-for-profit academic purposes (i.e. in teaching, research, and #
 academic materials). You may not sell this list, or #
@@ -29,4 +29,4 @@ IN NO EVENT SHALL THE CONTRIBUTORS BE LIABLE FOR ANY SPECIAL, INDIRECT OR #
 CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF
 USE DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THESE INSTRUCTIONAL SOFTWARE MATERIALS. 
 
-# Distributing author: Saad Hassan (sh2513@rit.edu) #
+## Distributing author: Saad Hassan (sh2513@rit.edu) #

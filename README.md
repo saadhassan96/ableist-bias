@@ -1,11 +1,10 @@
 # ableist-bias
 List of sentences.
 
-################################################################################
-# #
+# 
 # Copyright (c) 2021 #
 # #
-# All Rights Reserved. #
+## All Rights Reserved. #
 # #
 # Permission is hereby granted, free of charge, to use and distribute the #
 # list of sentences for not-for-profit academic purposes (i.e. instruction, research, or academic materials) #

@@ -38,7 +38,7 @@ conditions, and the below disclaimer.
 5. Authors and materials are acknowledged and referenced appropriately. 
 6. The authors' names are not used to endorse or promote derivate works. 
 The permission granted here does not supersede those granted by licenses 
-of software packages used by SNAG dataset. 
+of software packages used by list of sentences dataset. 
 
 THE CONTRIBUTORS TO THIS WORK DISCLAIM ALL WARRANTIES WITH REGARD TO THESE 
 MATERIALS, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, 

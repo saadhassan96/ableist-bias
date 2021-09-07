@@ -15,7 +15,7 @@
 
 ### BibTex: @inproceedings{hassan_huernerfauth_alm, title={Unpacking the Interdependent Systems of Discrimination:Ableist Bias in NLP systems through an Intersectional Lens}, publisher={Findings of the Association for Computational Linguistics: EMNLP 2021}, author={Hassan, Saad and Huernerfauth, Matt and Alm, Cecilia Ovesdotter}}
 
-### Saad Hassan, Matt Huenerfauth, Cecilia Ovesdotter Alm. 2021.  Proceedings of thesecond workshop on gender bias in natural language processing. *InProceedings of the Findings of the Association for Computational Linguistics: EMNLP 2021*.
+### Saad Hassan, Matt Huenerfauth, Cecilia Ovesdotter Alm. 2021.  Proceedings of thesecond workshop on gender bias in natural language processing. *In the Findings of the Association for Computational Linguistics: EMNLP 2021*.
   
   
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

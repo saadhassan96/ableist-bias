@@ -1,6 +1,13 @@
 # ableist-bias
 List of sentences.
 
+## Citation 
+
+### BibTex: @inproceedings{hassan_huernerfauth_alm, title={Unpacking the Interdependent Systems of Discrimination:Ableist Bias in NLP systems through an Intersectional Lens}, publisher={Findings of the Association for Computational Linguistics: EMNLP 2021}, author={Hassan, Saad and Huernerfauth, Matt and Alm, Cecilia Ovesdotter}}
+
+Saad Hassan, Matt Huenerfauth, Cecilia Ovesdotter Alm. 20201.  Proceedings of thesecond workshop on gender bias in natural languageprocessing.  *InProceedings of the Findings of the Association for Computational Linguistics: EMNLP 2021*.
+
+
 
 ## Copyright (c) 2021 
 All Rights Reserved.

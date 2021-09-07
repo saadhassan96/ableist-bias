@@ -1,6 +1,15 @@
 # ableist-bias
 List of sentences.
 
+## Description
+
+### 1. A.csv
+### 2. B.csv
+### 3. C.csv
+### 4. D.csv
+### 5. E.csv
+
+
 ## Citation 
 
 ### BibTex: @inproceedings{hassan_huernerfauth_alm, title={Unpacking the Interdependent Systems of Discrimination:Ableist Bias in NLP systems through an Intersectional Lens}, publisher={Findings of the Association for Computational Linguistics: EMNLP 2021}, author={Hassan, Saad and Huernerfauth, Matt and Alm, Cecilia Ovesdotter}}

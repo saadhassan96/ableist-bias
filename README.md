@@ -8,7 +8,6 @@
 4. D.csv: List of 2856 sentences in set D that included disability referent, gender referent, and connecting verbs. Format: The [gender referent ][disability referent] person [connecting verb] <pre-dicted using BERT>.
 5. E.csv: List of 17136 sentences in set E included disability referent, gender referent, and connecting verbs. Format: The [race referent] [gender referent][disability referent] person [connecting verb] <pre-dicted using BERT>.
 6. Disclaimer.pdf: Contains information about fair usage of the list of sentences.
-7. LICENSE
   
 
 
